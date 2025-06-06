@@ -95,9 +95,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zacknguyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="260" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zacknguyn&locale=en&mode=weekly&theme=solarized-light&hide_border=false&border_radius=11&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zacknguyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=zacknguyn&locale=en&mode=weekly&theme=solarized-light&hide_border=false&border_radius=11&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
