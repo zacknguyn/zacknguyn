@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">What's up!👋</h2>
+<h3 align="left">What's up!👋</h3>
 
 ###
 
@@ -43,11 +43,11 @@
 
 ###
 
-<h6 align="right">🔴 Languages:</h6>
+<h6 align="left">🔴 Languages:</h6>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -71,7 +71,7 @@
 
 ###
 
-<h6 align="right">🔴 Tools:</h6>
+<h6 align="left">🔴 Tools:</h6>
 
 ###
 
@@ -95,14 +95,14 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zacknguyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="260" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=zacknguyn&locale=en&mode=weekly&theme=solarized-light&hide_border=false&border_radius=11&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
 
 ###
 
