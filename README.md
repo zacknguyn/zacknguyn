@@ -102,11 +102,11 @@
 
 ###
 
-<img align="right" height="178" width="178" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHRxNDVzYWgyeGN3Z3d4ZmQwcGdwbTIxbW5wdXJ1anhkcXpwNmJveiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf1RA1jNSpbbuDE40m/giphy.gif"  />
+<img align="right" height="178" width="178" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHRxNDVzYWgyeGN3Z3d4ZmQwcGdwbTIxbW5wdXJ1anhkcXpwNmJveiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf1RA1jNSpbbuDE40m/giphy.gif" style="border: 2px solid black; border-radius: 10px;" />
 
 ###
 
-<div align="left" margin-left="3">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zacknguyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="178" alt="languages graph"  />
 </div>
 
