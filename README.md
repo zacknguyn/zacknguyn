@@ -102,8 +102,8 @@
 
 ###
 
-<kbd>
-  <img align="right" height="178" width="178" style="border: .5px solid;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHRxNDVzYWgyeGN3Z3d4ZmQwcGdwbTIxbW5wdXJ1anhkcXpwNmJveiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf1RA1jNSpbbuDE40m/giphy.gif" />
+<kbd align="right">
+  <img align="right" height="170" width="170" style="border: .5px solid;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHRxNDVzYWgyeGN3Z3d4ZmQwcGdwbTIxbW5wdXJ1anhkcXpwNmJveiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf1RA1jNSpbbuDE40m/giphy.gif" />
 </kbd>
 
 ###
