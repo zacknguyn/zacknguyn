@@ -102,12 +102,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zacknguyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="178" alt="languages graph"  />
 </div>
@@ -117,5 +111,11 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azJqaGRvaGxyZG1xbXF3MXlhNzYwenR3dHh5eTMxNHN0NmVxY3F4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lKaeQAunM3hZaqsOpj/giphy.gif"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
 
 ###
