@@ -109,7 +109,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azJqaGRvaGxyZG1xbXF3MXlhNzYwenR3dHh5eTMxNHN0NmVxY3F4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lKaeQAunM3hZaqsOpj/giphy.gif"  />
+  <img height="200" width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azJqaGRvaGxyZG1xbXF3MXlhNzYwenR3dHh5eTMxNHN0NmVxY3F4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lKaeQAunM3hZaqsOpj/giphy.gif"  />
 </div>
 
 ###
