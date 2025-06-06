@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">What's up!👋</h1>
+<h2 align="center">What's up!👋</h2>
 
 ###
 
@@ -35,11 +35,11 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
-<img align="left" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNhOTJobWs4c3hkenA5OHFiMmtmbTJxdmExZThrYzB1Z2I0aGN2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TfyTBB8BR9G9hg5uJz/giphy.gif"  />
+<img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNhOTJobWs4c3hkenA5OHFiMmtmbTJxdmExZThrYzB1Z2I0aGN2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TfyTBB8BR9G9hg5uJz/giphy.gif"  />
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
+<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTlnczV2dGRmbTN4ZmhuZWdzZjk0cTZrZjU4OTh6MXZ1Z2w5M2tzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.gif"  />
 
 ###
 
