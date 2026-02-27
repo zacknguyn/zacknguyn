@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Heya, my name is Zack and I'm from Danang, Vietnam.<br><br>- 🔭 I’m a student at VKU.<br>- 📚 I'm currently learning C++, Python,.. (Technically got a lot to learn but gotta take things step by step).<br>- ⚡ In my free time I usually check out youtube, prolly gonna hop into  games but I don't think those really matters. I do spend free time on learning Japanese too.</p>
+<p align="left">Heya, my name is Zack and I'm from Danang, Vietnam.<br>- 📚 I'm currently learning C++, Python,.. (Technically got a lot to learn but gotta take things step by step).<br>- ⚡ In my free time I usually check out youtube, prolly gonna hop into  games but I don't think those really matters. I do spend free time on learning Japanese too.</p>
 
 ###
 
