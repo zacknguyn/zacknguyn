@@ -1,12 +1,5 @@
-<h3 align="left">What's up!👋</h3>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Heya, my name is Phong and I'm from Danang, Vietnam.<br>- 📚 I'm omw learning C++, Go,.. (Technically got a lot to learn but gotta take things step by step).<br>- ⚡ In my free time I usually check out youtube, prolly gonna hop into  games but I don't think those really matters. I do spend free time on learning Japanese too.</p>
+<p align="left">Hey, my name is Phong and I'm from Danang, Vietnam.<br>- 📚 I'm omw learning C++, Go,.. (Technically got a lot to learn but gotta take things step by step).<br>- ⚡ In my free time I usually check out youtube, prolly gonna hop into  games but I don't think those really matters. I do spend free time on learning Japanese too.</p>
 
 ###
 
