@@ -18,12 +18,5 @@ phong@zacknguyn:~$ cat ~/.plan
 - write something real in Go this year
 - read a Thai menu without needing the pictures
 
-phong@zacknguyn:~$ waka --last-week
-```
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-```
 phong@zacknguyn:~$ ▌
 ```
