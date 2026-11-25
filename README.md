@@ -14,3 +14,10 @@ Theme       #f85149 on #0d1117
 
 phong@zacknguyn:~$ phong --stack
 ```
+
+<a href="https://gitscore.live/zacknguyn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/zacknguyn?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/zacknguyn?style=card" alt="GitScore for zacknguyn" />
+  </picture>
+</a>
