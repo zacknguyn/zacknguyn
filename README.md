@@ -2,13 +2,13 @@
 # ~/zacknguyn
 
 phong@zacknguyn:~$ whoami
-phong
+Phong Nguyen (Zack)
 
 phong@zacknguyn:~$ phong --about
 phong@zacknguyn
 ---------------
 Location    Danang, Vietnam
-Languages   Vietnamese (native), English (fluent), ไทย (learning)
+Languages   Vietnamese (native), English (fluent), ไทย (learning), 日本語 (learning)
 Idle        YouTube, F1, sports — not the stay-indoors type
 Theme       #f85149 on #0d1117
 
